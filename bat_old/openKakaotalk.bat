@@ -1,0 +1,5 @@
+rem __________________________ replace encoding mode as utf-8_________________________ 
+chcp 65001
+
+rem // ______________________________________________________________ losslesscut _________________________________________________________________
+explorer "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\카카오톡\카카오톡.lnk"

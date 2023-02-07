@@ -1,0 +1,7 @@
+rem __________________________ replace encoding mode as utf-8_________________________ 
+chcp 65001
+
+
+
+rem ______________________________________________________________ 4k video downloader _________________________________________________________________
+explorer "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\4K Video Downloader.lnk"
